@@ -1,0 +1,6 @@
+__pycache__/
+demo-frames/
+*.png
+*.gif
+*.tsv
+.DS_Store

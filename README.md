@@ -1,6 +1,6 @@
 # zen-browser
 
-A Claude Code skill for driving a real, logged-in [Zen Browser](https://zen-browser.app)
+A skill for driving a real, logged-in [Zen Browser](https://zen-browser.app)
 from coding agents. Page work goes through the
 [firefox-bridge](https://github.com/raychao-oao/firefox-bridge) MCP server, with one tab
 lease per agent session and Firefox containers for separate logins. Layout goes through
